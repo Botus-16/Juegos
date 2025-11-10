@@ -1,4 +1,4 @@
 void main() {
-    Triqui triqui= new Triqui();
-    triqui.iniciarJuego();
+    Menu menu= new Menu();
+
 }
